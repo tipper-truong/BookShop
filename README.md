@@ -6,5 +6,6 @@ Used a local MongoDB and ran the application on localhost:3000
 To run my application: 
 ```
 npm install
+npm run build
 npm run dev
 ```
